@@ -1,5 +1,5 @@
 # YEDDA-python3.8
-YEDDA中文标注工具，![原版本](https://github.com/jiesutd/YEDDA)基于python2运行，基于原版本进行修改，修改后的代码基于python3.8运行。
+YEDDA中文标注工具，[原版本](https://github.com/jiesutd/YEDDA)基于python2运行，基于原版本进行修改，修改后的代码基于python3.8运行。
 
 
 ![YEDDA Logo](https://github.com/jiesutd/YEDDA/blob/master/YEDDAlogo.png) 
